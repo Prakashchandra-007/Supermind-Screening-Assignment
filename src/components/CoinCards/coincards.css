@@ -1,0 +1,14 @@
+.coin-cards{
+    background-color: rgb(8, 123, 143);
+    margin: 0.5em;
+    box-shadow: 0 20 10px #161616;
+    display:flex;
+    justify-content: space-between;
+    padding:.5em;
+}
+.coin-cards .coin-cards-sec{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align:left;
+}
